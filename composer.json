@@ -1,0 +1,5 @@
+{
+    "require": {
+        "crafycaptcha/crafy-captcha": "^1.0"
+    }
+}
